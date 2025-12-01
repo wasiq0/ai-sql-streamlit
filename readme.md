@@ -1,5 +1,9 @@
 # AI-Powered SQL Query Assistant
 
+Convert natural language → SQL queries instantly using Llama/OpenAI models.
+Live demo: https://wasiq-aisql.streamlit.app/
+
+
 ## Supporting Services
 
 1. Create a postgres database on [render.com](https://dashboard.render.com/)
